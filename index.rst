@@ -9,6 +9,8 @@ Welcome to mysite's documentation!
 Contents:
 yes it is ok.
 
+it tests well.
+
 .. toctree::
    :maxdepth: 2
    sst
