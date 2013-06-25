@@ -7,6 +7,7 @@ Welcome to mysite's documentation!
 ==================================
 
 Contents:
+yes it is ok.
 
 .. toctree::
    :maxdepth: 2
